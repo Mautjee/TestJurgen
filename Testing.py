@@ -6,6 +6,7 @@ def functionvoorsaus():
     
 def UI():
     return "UI"
-    sdfsdfsdf
-    sdfsdfsdfdfsdf
-    sdfsdfsdfsdfsdf
+
+
+def TestigTheApplication():
+    return "UI"
