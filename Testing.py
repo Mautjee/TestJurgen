@@ -7,5 +7,6 @@ def functionvoorsaus():
 def UI():
     return "UI"
 
+
 def jurgensfunctie():
     return "wat een koning"
