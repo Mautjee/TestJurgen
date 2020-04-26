@@ -1,4 +1,6 @@
 print("Hello World")
+tesing 
 
-def adding(x,y):
-    return x*y
+def functionvoorsaus():
+    return "niks"
+    
